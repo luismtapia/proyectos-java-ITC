@@ -1,32 +1,69 @@
-# proyectos-java-ITC
-Proyectos hechos en java para a lo largo de la carrera ISC
+<div align="center">
 
+# 🖥️ Proyectos Java - ISC
 
-## Sistemas operativos Simulacion de procesos
+</div>
 
-### [Banco](Proyecto1BancoTec) 
-_simulación de ventanilla en banco con tiempo de llegada, atencion y salida_
-
-![Banco](./previews/banco.gif)
+Colección de proyectos desarrollados en Java como parte de la materia **Sistemas Operativos** en la carrera de Ingeniería en Sistemas Computacionales. Cada proyecto simula distintos aspectos del funcionamiento de un sistema operativo, desde la gestión de procesos hasta la comunicación entre equipos en red.
 
 ---
 
-### [Memoria](Proyecto2Memoria)
-_simulacion procesos en memoria_
+<div align="center">
 
-![Memoria](./previews/memoria.gif)
+## ⚙️ Simulación de Procesos
+
+</div>
+
+
+
+### 🏦 [Simulación de Banco](Proyecto1BancoTec)  
+Simulación de atención en ventanilla bancaria. Se modela el flujo de clientes con tiempos de **llegada**, **atención** y **salida**, utilizando estructuras de datos para representar la cola de espera.
+
+<p align="center">
+  <img src="./previews/banco.gif" alt="Banco" width="800">
+</p>
 
 ---
 
-### [Archivos](Proyecto3Archivos)
-_conexion red local entre dos equipos para escribir datos en archivos .txt entre ellos_
+### 🧠 [Gestión de Memoria](Proyecto2Memoria)  
+Simulación de asignación de procesos en memoria. Se representa cómo los procesos se cargan, ejecutan y liberan espacio, aplicando técnicas básicas de administración de memoria.
 
-![Archivos](./previews/archivos.png)
+<p align="center">
+  <img src="./previews/memoria.gif" alt="Banco" width="1000">
+</p>
 
 
 ---
 
-### [Semaforo](Proyecto4Semaforo)
-_simulacion stack en impresoras_
+### 🗂️ [Comunicación por Archivos](Proyecto3Archivos)  
+Implementación de una red local entre dos equipos para intercambiar datos mediante archivos `.txt`. Se simula la escritura y lectura de archivos como medio de comunicación entre procesos distribuidos.
+
+<p align="center">
+  <img src="./previews/archivos.png" alt="Banco" width="800">
+</p>
+
+---
+
+### 🖨️ [Simulación de Semáforo en Impresoras](Proyecto4Semaforo)  
+Modelo de concurrencia utilizando semáforos para gestionar una pila de tareas de impresión. Se simula el acceso controlado a recursos compartidos por múltiples procesos.
+
 
 ![Semaforo](./previews/semaforo.gif)
+
+---
+
+## 📚 Tecnologías y Conceptos Aplicados
+
+- Lenguaje: **Java**
+- Paradigmas: **Programación orientada a objetos**, **concurrencia**
+- Conceptos de SO: **Gestión de procesos**, **memoria**, **archivos**, **sincronización**
+- Herramientas: **Sockets**, **Threads**, **Estructuras de datos**
+
+---
+
+## 🚀 Autor  
+<p align="center">
+Desarrollado por Luis Manuel Tapia como parte del curso de <strong>Sistemas Operativos</strong> en el Instituto Tecnológico de Celaya.
+</p>
+
+

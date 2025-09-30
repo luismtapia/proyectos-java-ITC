@@ -4,13 +4,20 @@
 
 <div align="center">
    
-[![Static Badge](https://img.shields.io/badge/Descargar-%2385C8C8?style=flat&logo=abdownloadmanager&logoColor=%2300465B)](/dist/README.md)
+[![Static Badge](https://img.shields.io/badge/Descargar-%2385C8C8?style=flat&logo=abdownloadmanager&logoColor=%2300465B)](/Proyecto1BancoTec/dist/README.md)
 
 </div>
 
 <br><br>
 Es el formato ejecutable estándar Java
 <br><br><br><br>
+
+<br><br><br>
+
+> [!NOTE]
+> Solo estoy organizando proyectos no modicare por el momento para optimizacion
+
+<br><br><br><br><br><br>
 
 # BUILD OUTPUT DESCRIPTION
 
@@ -43,7 +50,4 @@ Notes:
   class name in the Main Class field. Alternatively, you can manually type the
   class name in the manifest Main-Class element.
 
-<br><br><br>
 
-> [!NOTE]
-> Solo estoy organizando proyectos no modicare por el momento para optimizacion
